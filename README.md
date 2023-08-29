@@ -1,4 +1,5 @@
 **HR Analytics Project:  Employee Attendance and Leave Patterns Analysis**
+---
 
 Welcome to my HR Analytics project, where I leveraged Power BI to conduct a comprehensive analysis of employee attendance and leave patterns within a company. The main objective was to uncover trends and insights that would contribute to more effective workforce management strategies.
 
