@@ -39,6 +39,30 @@ To provide a holistic assessment of employee attendance and leave patterns, I cr
 ---
 Central to the project's success was the development of an interactive dashboard using Power BI. This dashboard showcased the analysis findings through a variety of visually engaging representations, including bar charts, line charts, and pie charts. The dashboard enabled stakeholders to comprehensively explore employee attendance and leave patterns.
 
+
+
+
+
+![Screenshot (12)](https://github.com/Neelam-Sambnani/HR-Data-Analytics/assets/125915800/4855c048-604f-486a-b396-fe6a9317bf19)
+
+
+
+
+
+
+
+
+![Screenshot (13)](https://github.com/Neelam-Sambnani/HR-Data-Analytics/assets/125915800/4a6d02c8-0b6a-4c40-ac7f-de0c39e7843a)
+
+
+
+
+
+
+
+
+
+
 **Key Insights**
 ---
 **Identified Peak Absence Periods:**  By analyzing sick leave data, I pinpointed specific periods with higher sick leave rates, allowing HR to plan accordingly.
@@ -46,6 +70,19 @@ Central to the project's success was the development of an interactive dashboard
 **Evaluated Remote Work Trends:**  Insights into work-from-home patterns provided guidance for structuring remote work policies and evaluating its impact on productivity.
 
 **Informed Resource Allocation:**  The presence percentage shed light on employee availability, facilitating efficient resource allocation.
+
+
+
+
+
+![Screenshot (15)](https://github.com/Neelam-Sambnani/HR-Data-Analytics/assets/125915800/a1570c77-54e4-4bfb-b589-cb5af90fa79c)
+
+
+
+
+
+
+
 
 **Impact and Significance**
 ---
