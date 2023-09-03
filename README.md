@@ -98,6 +98,14 @@ The HR Analytics project empowered stakeholders to make informed decisions:
 ---
 This HR Analytics project exemplifies my proficiency in data analysis and visualization. By employing Power BI, I transformed raw data into actionable insights, equipping stakeholders with the tools needed for effective workforce management and strategic planning.
 
+**Challenges Faced:**
+---
+**Data Integration:**  Merging data from diverse Excel sheets with varying formats.
+
+**Data Quality:**  Ensuring accuracy and consistency through rigorous cleansing.
+
+**Interpretation Complexity:**  Understanding HR nuances to derive meaningful insights.
+
 
 
 
