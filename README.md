@@ -9,7 +9,7 @@ In this project, I harnessed the power of data analytics to gain valuable insigh
 
 **Tools and Technologies Used**
 ---
-**Tools:**  Power BI
+**Tools:**  Power BI, Excel
 
 **Data Source**
 ---
