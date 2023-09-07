@@ -106,6 +106,18 @@ This HR Analytics project exemplifies my proficiency in data analysis and visual
 
 **Interpretation Complexity:**  Understanding HR nuances to derive meaningful insights.
 
+**Future Scope**  
+---
+**Predictive Analytics:**  Implement predictive models to forecast attendance and leave patterns, aiding in proactive HR planning.
+
+**Employee Satisfaction Analysis:**  Incorporate employee feedback data to gain insights into factors affecting attendance and leave.
+
+**Machine Learning:**  Explore machine learning algorithms to identify early indicators of employee burnout or attrition.
+
+**Benchmarking:**  Compare your company's HR metrics with industry benchmarks for better context and insights.
+
+**Real-Time Analytics:**  Develop real-time dashboards for continuous monitoring and quick decision-making.
+
 
 
 
