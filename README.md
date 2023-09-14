@@ -7,6 +7,52 @@ Welcome to my HR Analytics project, where I leveraged Power BI to conduct a comp
 ---
 In this project, I harnessed the power of data analytics to gain valuable insights into employee attendance and leave behavior. By analyzing these patterns, I aimed to provide actionable information for optimizing HR processes and enhancing overall workforce productivity.
 
+**Data Description**
+---
+The HR Analytics project is built upon an Excel dataset containing three main sheets, each providing essential data related to employee attendance and leave patterns. Here's a description of the key fields in the dataset:
+
+**- Employee Code:**  A unique identifier for each employee.
+
+**- Employee Name:**  The name of the employee.
+
+**- Dates:**  Records various dates related to employee attendance.
+
+**- Month:**  Indicates the month corresponding to the attendance record.
+
+**- Work from Home Data:**  Information about whether an employee worked remotely on a given date.
+
+**- SL Date:**  Information about dates on which sick leaves was taken.
+
+
+**Data Exploration**
+---
+In the data exploration phase, the following key activities were carried out for each of the three sheets:
+
+**Data Merging:**
+
+**-**  While the sheets represent data for different months, data from all three sheets were merged within Power BI to create a unified dataset. This allowed for comprehensive analysis 
+        and visualization.
+
+**Data Transformation:**
+
+       Data cleaning and transformation were performed on each sheet individually to ensure accuracy and consistency. This included handling date formats, addressing missing or 
+       inconsistent values, and preparing the data for analysis.
+
+**Key Measures:**
+ 
+ **- Presence %:**  Calculating the percentage of days an employee was present across the three months.
+
+ **- Sick Leave %:**  Determining the percentage of days an employee took sick leave across the three months.
+ 
+ **- Work from Home %:**  Analyzing the percentage of days an employee worked remotely across the three months.
+ 
+ **- Total Working Days:**  Count of total working days across the three months.
+  
+ **- Sick Leave Count:**  Count of sick leave instances across the three months.
+
+ **- Present Days:**  Count of days when the employee was present in the office across the three months.
+
+
 **Tools and Technologies Used**
 ---
 **Tools:**  Power BI, Excel
@@ -21,19 +67,7 @@ For this analysis, I worked with an Excel file consisting of three sheets, each 
 
 **Work-from-Home Records:**  This sheet recorded instances of employees working remotely.
 
-**Data Preparation and Transformation**
----
-My approach to data preparation involved merging and transforming the data from the three sheets within Power BI. This process created a unified and cohesive dataset that formed the basis for subsequent analysis and visualization. By cleaning and structuring the data, I ensured its accuracy and suitability for meaningful insights.
 
-**Key Measures**
----
-To provide a holistic assessment of employee attendance and leave patterns, I created key measures:
-
-**Presence %:**  Calculated the percentage of days an employee was present in the company, offering insights into overall attendance.
-
-**Sick Leave %:**  Determined the percentage of days an employee took sick leave, aiding in understanding health-related absence patterns.
-
-**Work from Home %:**  Analyzed the percentage of days an employee worked remotely, contributing to insights about remote work trends.
 
 **Dashboard Creation**
 ---
