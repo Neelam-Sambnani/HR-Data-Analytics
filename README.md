@@ -35,7 +35,7 @@ In the data exploration phase, the following key activities were carried out for
 
 **Data Transformation:**
 
-       Data cleaning and transformation were performed on each sheet individually to ensure accuracy and consistency. This included handling date formats, addressing missing or 
+**-**  Data cleaning and transformation were performed on each sheet individually to ensure accuracy and consistency. This included handling date formats, addressing missing or 
        inconsistent values, and preparing the data for analysis.
 
 **Key Measures:**
