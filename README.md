@@ -11,17 +11,15 @@ In this project, I harnessed the power of data analytics to gain valuable insigh
 ---
 The HR Analytics project is built upon an Excel dataset containing three main sheets, each providing essential data related to employee attendance and leave patterns. Here's a description of the key fields in the dataset:
 
-**- Employee Code:**  A unique identifier for each employee.
 
-**- Employee Name:**  The name of the employee.
 
-**- Dates:**  Records various dates related to employee attendance.
 
-**- Month:**  Indicates the month corresponding to the attendance record.
 
-**- Work from Home Data:**  Information about whether an employee worked remotely on a given date.
+![Screenshot (56)](https://github.com/Neelam-Sambnani/HR-Data-Analytics/assets/125915800/26197d7d-25a4-46c5-a012-e63a646b3d53)
 
-**- SL Date:**  Information about dates on which sick leaves was taken.
+
+
+
 
 
 **Data Exploration**
