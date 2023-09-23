@@ -1,3 +1,20 @@
+
+
+
+
+![HR-Analytics](https://github.com/Neelam-Sambnani/HR-Data-Analytics/assets/125915800/feb43251-1d9b-456e-9d4a-2313255b2fb4)
+
+
+
+
+
+
+
+
+
+
+
+
 **HR Analytics Project:  Employee Attendance and Leave Patterns Analysis**
 ---
 
