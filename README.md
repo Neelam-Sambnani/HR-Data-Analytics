@@ -58,6 +58,7 @@ In the data exploration phase, the following key activities were carried out for
  **- Presence %:**  Calculating the percentage of days an employee was present across the three months.
 
  **- Sick Leave %:**  Determining the percentage of days an employee took sick leave across the three months.
+                      SL % = DIVIDE([SL Count],[Total Working Days],0)
  
  **- Work from Home %:**  Analyzing the percentage of days an employee worked remotely across the three months.
  
