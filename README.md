@@ -66,7 +66,7 @@ In the data exploration phase, the following key activities were carried out for
  **- Total Working Days:**  Count of total working days across the three months.
 
                             Total Working Days = 
-                            Var totaldays = count('Final Data'[Value]
+                            Var totaldays = count('Final Data'[Value])
                             Var noworkdays = CALCULATE(COUNT('Final Data'[Value]),'Final Data'[Value] in {"WO","HO"})
 
                             RETURN
